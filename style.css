@@ -74,7 +74,7 @@ body {
 }
 .container .pikachu img {
   position: absolute;
-  width: 600px;
+  height: 87%;
   top: 10%;
   left: 40%;
 }
